@@ -37,6 +37,13 @@
 ### Impressão 3D 
 * What is 3D Printing?, https://www.youtube.com/watch?v=Vrbu4LUxAtY 
 
+#### Fused Deposition Modeling (FDM) Technology
+* Fused Deposition Modeling 2013 - Sratasys, https://www.youtube.com/watch?v=WHO6G67GJbM 
+* Fused Deposition Modeling  2016 - Sratasys, https://www.youtube.com/watch?v=a_kbMUzMKk0 
+* The Basics of FDM 3D Printing, https://www.youtube.com/watch?v=Z70SF4guWKo
+* Fused Deposition Modelling (FDM) Process, https://www.youtube.com/watch?v=J4OQQ9bA6g0 
+
+
 #### Estereolitografia
 * Stereolithography (SL / SLA), https://www.youtube.com/watch?v=-_Xnpn_d4aM 
 * Stereolithography (SL / SLA) on Stratasys,  https://www.stratasysdirect.com/technologies/stereolithography 
@@ -50,11 +57,6 @@
 #### Laminated Object Manufacturing
 * Laminated Object Manufacturing, https://www.youtube.com/watch?v=GUvnz0borAI 
 * commercial 3d printer, https://www.youtube.com/watch?v=GjJKuteh4xM 
-* Fused Deposition Modeling (FDM) Technology
-* Fused Deposition Modeling 2013 - Sratasys, https://www.youtube.com/watch?v=WHO6G67GJbM 
-* Fused Deposition Modeling  2016 - Sratasys, https://www.youtube.com/watch?v=a_kbMUzMKk0 
-* The Basics of FDM 3D Printing, https://www.youtube.com/watch?v=Z70SF4guWKo
-* Fused Deposition Modelling (FDM) Process, https://www.youtube.com/watch?v=J4OQQ9bA6g0 
 
 #### Metal Technology
 * Why 3D Metal Printing Will Change The World, https://www.youtube.com/watch?v=Uedx-cz9YkE 
