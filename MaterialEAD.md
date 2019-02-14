@@ -85,3 +85,6 @@
 * Top 10 3D-Printed Cars, https://www.youtube.com/watch?v=N-HoLI9hO0c 
 * 3D Printers Make Pizza and Candy, https://www.youtube.com/watch?v=yoKjoj2XL3c 
 * How Close Are We to Farming Human Body Parts?, https://www.youtube.com/watch?v=oRHxX9OW9ow 
+
+### Softwares para Fatiamento
+* Tutorial de uso do Cura, https://www.youtube.com/watch?v=eUNTlb5pEWA 
